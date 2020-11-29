@@ -7,7 +7,7 @@ const INMUTABLE_CACHE = 'inmutable-v1';
 
 const APP_SHELL = [
   // Las librerias de terceros NO se incluyen aqui.
-  '/',
+  // '/',
   '/index.html',
   '/css/style.css',
   '/img/favicon.ico',
